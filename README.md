@@ -1,5 +1,5 @@
 # HtmlTags
-<hr>
+
 Nesse repositório, adicionei um arquivo que testei tags em sala<br>
 <br>
 <b><h2>Tags:</h2><b><br>
